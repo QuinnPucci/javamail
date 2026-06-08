@@ -1,0 +1,12 @@
+# compiled java files
+*.class
+
+# sensitive test files
+*password*
+*secret*
+*credentials*
+real-*.txt
+
+# editor/system files
+.DS_Store
+*.swp
